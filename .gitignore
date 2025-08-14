@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+env/
+instance/
+db.sqlite3
+
+# VSCode
+.vscode/
+
+# Flask
+*.db
+*.sqlite3
+
+# Node/React
+meal-planner/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/meal-planner/build
+/meal-planner-frontend/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
